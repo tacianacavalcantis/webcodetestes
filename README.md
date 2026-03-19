@@ -23,8 +23,9 @@ O objetivo é capturar a essência visual e funcional desses desafios, mas aplic
 
 Abaixo estão listados os principais projetos desenvolvidos. Cada um foca em um aspecto específico do desenvolvimento (Layout, Consumo de API, Estado, etc).
 
-Projeto | Preview | Descrição | Link
-------- | ------- | --------- | -----
+Projeto |  Descrição | Link
+------- |  --------- | -----
+Blog Card | Cartão simples de post blog | [blogCard](https://tacianacavalcantis.github.io/webcodetestes/blogCard/)
 
 
 ## :chart_with_upwards_trend: Evolução Técnica
